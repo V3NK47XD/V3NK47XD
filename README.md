@@ -22,11 +22,6 @@ Here are some ideas to get you started:
        src="https://github-readme-stats.vercel.app/api/top-langs?username=v3nk47xd&show_icons=true&locale=en&layout=compact&theme=dark" 
        alt="v3nk47xd" />
 </p>
-<br>
-<p>
-  <img align="center" 
-             src="https://github-readme-stats.vercel.app/api?username=v3nk47xd&show_icons=true&locale=en&theme=dark" 
-             alt="v3nk47xd" />
-</p>
+
 
 ![](https://leetcard.jacoblin.cool/v3nk47?ext=heatmap)
